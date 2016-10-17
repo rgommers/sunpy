@@ -1,4 +1,4 @@
-How to contrubute to SunPy
+How to contribute to SunPy
 --------------------------
 
 SunPy is an open project that enourages everyone to contribute in any way possible.
